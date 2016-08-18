@@ -1,0 +1,61 @@
+#pic-of-moi {
+	width: 100%;
+}
+
+.connect {
+	width: 100%;
+	background-color: #dddddd;
+	padding: 0px;
+	display: inline;
+}
+
+.icon {
+	width:20%;
+}
+
+h3 {
+	text-align: center;
+}
+
+.connect-icons {
+	padding-left: 25%;
+}
+
+.footer-hr {
+	height: 10%;
+	background-color: #4aaaa5;
+	margin: 0px;
+}
+
+.footer-p {
+	padding-top: 40px;
+	margin: 0px;
+	color: white;
+	font-size: 10px;
+}
+
+.footer {
+	background-color: #666666;
+	text-align: center;
+	height: 100px;
+	margin-top: 30px;
+}
+
+#contact-form {
+	width: 100%;
+	padding: 20px;
+	background-color: #dddddd;
+
+}
+
+#name_input {
+	width: 100%;
+}
+
+#email_input {
+	width: 100%;
+}
+
+#message_input {
+	width: 100%;
+}
