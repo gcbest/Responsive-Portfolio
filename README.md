@@ -1,2 +1,1 @@
-# assignment2
-Second Homework
+Responsive portfolio hosted at http://gbest-bstrap.herokuapp.com/
